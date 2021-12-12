@@ -29,7 +29,7 @@ Download this repo.
 3. Download the [demo tfrecord](https://pan.baidu.com/s/1WLMhB5jytr1EH_jGkCACvw)(password: mcl0 if required).  Unzip it and place it under '/laplacianet/dataset/tfrecord/' folder.  
 4. (optional) Download the [HDR image in demo](https://pan.baidu.com/s/1SzecOWvAR1AjHafKrdkGJA)(password: frd0 if required).  Unzip it and place it under '/laplacianet/dataset/demo/' folder.  
 
-`If the above links are invalid, please check this [link](https://www.dropbox.com/sh/8ih50k9stsyqlqu/AADmsF8JX8pc1cy1gbal9iwWa?dl=0) for checkpoint, tfrecord, and HDR images.`
+`If the above links are invalid, please check this` [link](https://www.dropbox.com/sh/8ih50k9stsyqlqu/AADmsF8JX8pc1cy1gbal9iwWa?dl=0) `for checkpoint, tfrecord, and HDR images.`
 
 ### Pycharm setup
 1. Download Pycharm.  Go to `File` -> `Open` and choose the project where it's downloaded.
