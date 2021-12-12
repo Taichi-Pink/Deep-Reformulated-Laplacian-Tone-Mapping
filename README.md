@@ -1,6 +1,6 @@
 # Deep Reformulated Laplacian Tone Mapping
 
-This is the implementation of Deep Reformulated Laplacian Tone Mapping. 
+This is the implementation of [Deep Reformulated Laplacian Tone Mapping](https://arxiv.org/pdf/2102.00348.pdf). 
 
 
 <img src="https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A0221-feaaa06d6f_predict.png" width="430"> <img src="https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A1511-702551eb64_predict.png" width="430">
@@ -27,7 +27,8 @@ Download this repo.
 1. Download [pretrained vgg16.npy](https://github.com/machrisaa/tensorflow-vgg) and place it under '/laplacianet/loss/pretrained/' folder.
 2. Download the [checkpoint](https://pan.baidu.com/s/1dcMH5UhOsqf0bijQBEjYrg)(password: 9v3t if required).  Unzip it and place all 4 files under '/laplacianet/checkpoint/demo/' folder.  
 3. Download the [demo tfrecord](https://pan.baidu.com/s/1WLMhB5jytr1EH_jGkCACvw)(password: mcl0 if required).  Unzip it and place it under '/laplacianet/dataset/tfrecord/' folder.  
-4. (optional) Download the [WDR image in demo](https://pan.baidu.com/s/1SzecOWvAR1AjHafKrdkGJA)(password: frd0 if required).  Unzip it and place it under '/laplacianet/dataset/demo/' folder.  
+4. (optional) Download the [HDR image in demo](https://pan.baidu.com/s/1SzecOWvAR1AjHafKrdkGJA)(password: frd0 if required).  Unzip it and place it under '/laplacianet/dataset/demo/' folder.  
+If the link is invalid, please check this [link](https://www.dropbox.com/sh/8ih50k9stsyqlqu/AADmsF8JX8pc1cy1gbal9iwWa?dl=0) for checkpoint, tfrecord, and HDR images.
 
 `If it requires the app to download the files above, follow the instruction on the prompt window to setup an account.`
 
